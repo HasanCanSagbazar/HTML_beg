@@ -1,6 +1,6 @@
-#Patika.dev HTML Course
+# Patika.dev HTML Course
 
-##Contents
+## Contents
 
 * **Title 1**  Name Surname
 * **Title 2** About Yourself
